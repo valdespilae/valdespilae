@@ -73,5 +73,5 @@ Sou analítico, curioso e orientado a processos. Acredito no aprendizado contín
 - 🎲 Fundamentos de Analytics - Preditiva.IA (2024)
 - 📈 Excel e Power BI para Análises de Dados - Preditiva.IA (2024)
 - 🟡🥋Lean Six Sigma - Yellow Belt 
-- ⚙ Engenharia de Produção - Facultade Pitágóras. Uberlândia - MG (2017 - 2018) 
+- ⚙ Engenharia de Produção - Facultade Pitágóras, Uberlândia - MG (2017 - 2018) 
 - ⚙ Engenharia Industrial - Universidade Central das Villas, Cuba (2010 - 2016) 
